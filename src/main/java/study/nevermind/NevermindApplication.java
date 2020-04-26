@@ -12,7 +12,7 @@ public class NevermindApplication {
 		String result = msg.getMessage();
 
 		System.out.println(msg.getMessage());
-
+		System.out.println("git Test");
 		SpringApplication.run(NevermindApplication.class, args);
 	}
 
